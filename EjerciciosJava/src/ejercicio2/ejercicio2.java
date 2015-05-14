@@ -6,8 +6,10 @@
 package ejercicio2;
 
 /**
- *
+ *Hacer un pseudocodigo que imprima los numeros del 100 al 0, en orden
+  decreciente.
  * @author isaac
+ * @version 1.0 
  */
 public class ejercicio2 {
     public static void main(String[]args){

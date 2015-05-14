@@ -10,8 +10,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- *
+ * Introducir tantas frases como queramos y contarlas.
  * @author isaac
+ * @version 1.0
  */
 public class ejercicio7 {
    public static void main(String[]args) throws IOException {

@@ -10,8 +10,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- *
+ * Introducir un numero por teclado que nos diga si es par o impar.
  * @author isaac
+ * @version 1.0
  */
 public class ejercicio10 {
    public static void main(String[]args) throws IOException {

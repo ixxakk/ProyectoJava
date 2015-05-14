@@ -6,8 +6,9 @@
 package ejercicio1;
 
 /**
- *
+ * Hacer un pseudocodigo que imprima los numeros del 1 al 100.
  * @author isaac
+ * @version 1.0
  */
 public class ejercicio1 {
     public static void main(String[]args){

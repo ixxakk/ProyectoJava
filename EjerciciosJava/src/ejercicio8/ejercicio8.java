@@ -8,8 +8,9 @@ package ejercicio8;
 import java.io.IOException;
 
 /**
- *
+ * Hacer un pseudocodigo que solo nos permita introducir S o N.
  * @author isaac
+ * @version 1.0
  */
 public class ejercicio8 {
    public static void main(String[]args) throws IOException {

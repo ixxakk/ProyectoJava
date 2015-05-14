@@ -8,8 +8,10 @@ package ejercicio11;
 import java.util.Scanner;
 
 /**
- *
+ *Imprimir y contar los multiplos de 3 desde la unidad hasta un numero que
+  introducimos por teclado.
  * @author isaac
+ * @version 1.0
  */
 public class ejercicio11 {
     public static void main(String[] args) {  

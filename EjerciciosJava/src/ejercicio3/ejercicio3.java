@@ -6,8 +6,9 @@
 package ejercicio3;
 
 /**
- *
+ *Hacer un pseudocodigo que imprima los numeros pares entre 0 y 100.
  * @author isaac
+ * @version 1.0
  */
 public class ejercicio3 {
     public static void main(String[] args) {

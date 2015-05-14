@@ -8,8 +8,10 @@ package ejercicio6;
 import java.util.Scanner;
 
 /**
- *
+ *Hacer un pseudocodigo que imprima todos los numeros naturales que hay
+  desde la unidad hasta un numero que introducimos por teclado.
  * @author isaac
+ * @version 1.0
  */
 public class ejercicio6 {
     public static void main(String[]args){

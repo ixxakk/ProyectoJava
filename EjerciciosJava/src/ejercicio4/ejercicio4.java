@@ -8,8 +8,9 @@ package ejercicio4;
 import java.util.Scanner;
 
 /**
- *
+ *Hacer un programa que imprima la suma de los 100 primeros numeros.
  * @author isaac
+ * @version 1.0
  */
 public class ejercicio4 {
     public static void main(String[]args)
